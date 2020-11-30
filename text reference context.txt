@@ -1,0 +1,43 @@
+[2:44 pm, 27/11/2020] Nikhil Chauhan Sec  B: Write a program to input the value of x and n and print the sum of the
+following series:
+ 1+x+x2+x3+x4+ ............xn  1-x+x2-x3+x4+ ......... xn  x + x2 - x3 + x4+ ........... xn
+2 3 4 n
+ x
+[2:44 pm, 27/11/2020] Nikhil Chauhan Sec  B: Determine whether a number is a perfect number, an armstrong number or a
+palindrome.
+● Input a number and check if the number is a prime or composite number.
+● Display the terms of a Fibonacci series.
+● Compute the greatest common divisor and least common multiple of two
+integers.
+● Count and display the number of vowels, consonants, uppercase, lowercase
+characters in string.
+● Input a string and determine whether it is a palindrome or not; convert the
+case of characters in a string.
+● Find the largest/smallest number in a list/tuple
+● Input a list of numbers and swap elements at the even location with the
+elements at the odd location.
+● Input a list/tuple of elements, search for a given element in the list/tuple.
+● Input a list of numbers and test if a numb…
+[2:44 pm, 27/11/2020] Nikhil Chauhan Sec  B: AISSCE PRACTICAL EXAM 202 
+12 COMPUTER SCIENCE(PRACTICAL LIST as per CBSE curriculum)
+PYTHON PROGRAMS
+1.	Read a text file line by line and display each word separated by a #.
+2.	Read a text file and display the number of vowels/ consonants/uppercase/ lowercase characters in the file.
+3.	Create a binary file with name and roll number. Search for a given roll number and display the name, if not found display appropriate message.
+4.	Create a binary file with roll number, name and marks. Input a roll number and update the marks.
+5.	Remove all the lines that contain the character `a' in a file and write it to another file.
+6.	Write a random number generator that generates random numbers between 1 and 6 (simulates a dice).
+7.	Write a program using function find the factorial of a natural number.
+8.	Write a program using function to find the sum of all elements of a list.
+9.	Write a program using function to compute the nth Fibonacci number.
+10.	Write a Python program to implement a stack using a list data-structure.
+11.	Take a sample of ten phishing e-mails (or any text file) and find most commonly occurring word(s)
+12.	Write a Python program to implement a queue using a list data-structure.
+13.	 Create a CSV file with name and roll number. Search for a given roll number and display the name, if not found display appropriate message.
+14.	Write a python program to implement python mathematical functions. 
+15.	Write a python program to implement python string functions. 
+16.	Write a python program to make user define module and import same in another module or program. 
+17.	Integrate SQL with Python by importing the MySQL module record of employee and display the record. 
+18.	 Integrate SQL with Python by importing the MySQL module to search an employee using empno and if present in table display the record, if not display appropriate method. 
+19.	 Integrate SQL with Python by importing the MySQL module to search a student using rollno, update the record. 
+20.	 Integrate SQL with Python by importing the MySQL module to search a student using rollno, delete the record
